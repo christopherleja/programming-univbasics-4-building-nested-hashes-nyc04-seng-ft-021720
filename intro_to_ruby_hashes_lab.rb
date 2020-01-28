@@ -17,6 +17,7 @@ def monopoly_with_third_tier
       3 => {},
       4 => {}
     }
+    names: {}
   }
   }
 end
