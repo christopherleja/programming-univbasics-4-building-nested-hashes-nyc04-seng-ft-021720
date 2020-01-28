@@ -19,7 +19,7 @@ def monopoly_with_third_tier
       four_pieces_owned: 200
     },
     names: {
-      1 => {},
+      reading_railroad: {},
       2 => {},
       3 => {},
       4 => {}
